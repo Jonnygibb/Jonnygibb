@@ -15,4 +15,4 @@ I'm a Software Engineer from Warwickshire, England. I'm currently working at an 
 
 ## I'm looking forward to:
   * Expanding my experience in embedded software development in the automotive industry
-  * Learning more about atificial intelligence and machine learning and it's practical applications
+  * Learning more about artificial intelligence and machine learning and it's practical application
