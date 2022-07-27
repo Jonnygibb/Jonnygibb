@@ -12,7 +12,9 @@ I'm a Software Engineer from Warwickshire, England. I'm currently working at an 
   * The fundamentals of image processing
   * Convoltional Neural Networks using pytorch
   * Real time operating systems with FreeRTOS
+  * Test Driven Development for an API
 
 ## I'm looking forward to:
   * Expanding my experience in embedded software development in the automotive industry
   * Learning more about artificial intelligence and machine learning and it's practical application
+  * Deploying tested code for my friends and coworkers to experience
